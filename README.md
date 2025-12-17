@@ -27,10 +27,6 @@
 
 ```
 portfolioAi/
-├── assets/
-│   ├── images/          # Project images and photos
-│   ├── icons/           # Icon files and SVGs
-│   └── videos/          # Video content
 ├── css/
 │   ├── variables.css    # Design tokens & CSS variables
 │   ├── reset.css        # CSS reset & base styles
@@ -64,17 +60,7 @@ portfolioAi/
    - Right-click on `index.html`
    - Select "Open with Live Server"
 
-### Using Python Server
 
-```bash
-# Python 3
-python -m http.server 8000
-
-# Python 2
-python -m SimpleHTTPServer 8000
-```
-
-Then visit `http://localhost:8000`
 
 ## 🎨 Customization
 
@@ -106,22 +92,7 @@ The color scheme is defined in `css/variables.css` using CSS custom properties:
 5. Click Save
 6. Your site will be live at `https://yourusername.github.io/portfolioAi/`
 
-### Netlify
 
-1. Connect your GitHub repository to Netlify
-2. Set build command: (none needed)
-3. Set publish directory: `/`
-4. Deploy!
-
-### Vercel
-
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-```
 
 ## 📱 Sections
 
@@ -164,3 +135,4 @@ This project is open source and available for personal and educational use.
 ⭐ **If you like this project, please give it a star!** ⭐
 
 *Built with ❤️ by Samruddhi S Shetty*
+
