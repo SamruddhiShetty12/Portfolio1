@@ -39,29 +39,6 @@ portfolioAi/
 └── README.md            # Project documentation
 ```
 
-## 🚀 Quick Start
-
-### Local Development
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SamruddhiShetty12/portfolioAi.git
-   cd portfolioAi
-   ```
-
-2. **Open in browser**
-   ```bash
-   # Simply open index.html in your preferred browser
-   # Or use a local server (recommended)
-   ```
-
-3. **Using Live Server (VS Code)**
-   - Install the Live Server extension
-   - Right-click on `index.html`
-   - Select "Open with Live Server"
-
-
-
 ## 🎨 Customization
 
 ### Update Personal Information
@@ -80,18 +57,6 @@ The color scheme is defined in `css/variables.css` using CSS custom properties:
 --accent-hue: 320;
 /* Easy to customize by changing hue values */
 ```
-
-## 🌐 Deployment
-
-### GitHub Pages
-
-1. Go to your repository settings
-2. Navigate to "Pages" section
-3. Select branch (usually `main`)
-4. Select folder (`/ (root)`)
-5. Click Save
-6. Your site will be live at `https://yourusername.github.io/portfolioAi/`
-
 
 
 ## 📱 Sections
@@ -135,4 +100,5 @@ This project is open source and available for personal and educational use.
 ⭐ **If you like this project, please give it a star!** ⭐
 
 *Built with ❤️ by Samruddhi S Shetty*
+
 
